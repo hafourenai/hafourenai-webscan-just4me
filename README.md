@@ -460,4 +460,4 @@ flake8 honey.py --max-line-length=120
 ### **Practice Targets**
 - [DVWA](http://www.dvwa.co.uk/) - Damn Vulnerable Web App
 - [bWAPP](http://www.itsecgames.com/) - Buggy Web Application
-- [WebGoat](https://owa
+
