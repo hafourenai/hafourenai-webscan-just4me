@@ -402,7 +402,6 @@ Unauthorized scanning may violate:
 - **GitHub**: [@hafourenai](https://github.com/hafourenai)
 - **Email**: hafourenai@gmail.com
 
-- 
 ### **Support the Project**
 - ⭐ Star this repository
 - 🐛 Report bugs
