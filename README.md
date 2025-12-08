@@ -1,6 +1,6 @@
 <img width="1536" height="1024" alt="t" src="https://github.com/user-attachments/assets/4128ffd7-8179-4d19-bf54-255494ba075e" />
 
-# 🔍 Hafourenai Web Vulnerability Scanner
+# 🔍 Honey Web Vulnerability Scanner
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
