@@ -106,11 +106,7 @@ python honey.py https://testphp.vulnweb.com
 
 #### **2. Stealth Scan (Production Sites)**
 ```bash
-python honey.py http://target.com \
-  --stealth \
-  --depth 7 \
-  --threads 10 \
-  --rate 0.5
+python honey.py http://target.com --stealth --depth 7 --threads 10 --rate 0.5
 ```
 
 #### **3. Scan with Proxy Protection**
@@ -120,10 +116,7 @@ echo "user:pass@proxy1.com:8080" > proxies.txt
 echo "user:pass@proxy2.com:3128" >> proxies.txt
 
 # Scan with rotating IPs
-python honey.py http://target.com \
-  --proxy-file proxies.txt \
-  --stealth \
-  --rate 0.5
+python honey.py http://target.com --proxy-file proxies.txt --stealth --rate 0.5
 ```
 
 #### **4. Maximum Anonymity (TOR + Proxies)**
@@ -132,32 +125,20 @@ python honey.py http://target.com \
 sudo service tor start
 
 # Scan through TOR + Proxies
-python honey.py http://target.com \
-  --proxy-file proxies.txt \
-  --use-tor \
-  --stealth \
-  --rate 0.2 \
-  -d 5
+python honey.py http://target.com --proxy-file proxies.txt --use-tor --stealth --rate 0.2 -d 5
+
+#Don't Forget To Stop TOR
+sudo service tor stop
 ```
 
 #### **5. Aggressive Bug Bounty Scan**
 ```bash
-python honey.py http://target.com \
-  --aggressive \
-  --threads 20 \
-  --depth 10 \
-  --rate 2.0
+python honey.py http://target.com --aggressive --threads 20 --depth 10 --rate 2.0
 ```
 
 #### **6. High-Value Target (Cloudflare/WAF)**
 ```bash
-python honey.py http://target.com \
-  --proxy-file proxies.txt \
-  --use-tor \
-  --stealth \
-  --rate 0.1 \
-  --threads 3 \
-  -d 3
+python honey.py http://target.com --proxy-file proxies.txt --use-tor --stealth --rate 0.1 --threads 3 -d 3
 ```
 
 ---
