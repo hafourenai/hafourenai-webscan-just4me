@@ -49,6 +49,8 @@ Professional-grade web vulnerability scanner dengan **ML-style behavioral analys
 # Clone repository
 git clone https://github.com/hafourenai/hafourenai-webscan-just4me.git
 
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
