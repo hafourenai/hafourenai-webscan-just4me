@@ -361,23 +361,6 @@ Unauthorized scanning may violate:
 
 ---
 
-## 📈 Roadmap
-
-### **v3.0 (Planned)**
-- [ ] Browser automation (Selenium/Playwright) for XSS verification
-- [ ] GraphQL/WebSocket advanced testing
-- [ ] Machine learning model for WAF bypass
-- [ ] Mobile app API testing support
-- [ ] Advanced CAPTCHA detection & bypass suggestions
-- [ ] Distributed scanning (multiple nodes)
-
-### **v2.1 (Current)**
-- [x] ML-style behavioral analysis
-- [x] Context-aware detection
-- [x] Multi-technique verification
-- [x] Anti-ban protection
-- [x] TOR integration
-- [x] Confidence scoring
 
 ---
 ## 📧 Contact & Support
@@ -393,17 +376,7 @@ Unauthorized scanning may violate:
 - 🔀 Contribute code
 - ☕ Buy me a coffee
 
-## 📄 License
 
-MIT License - see [LICENSE](LICENSE) file for details.
-
-### **MIT License Summary**
-- ✅ Commercial use
-- ✅ Modification
-- ✅ Distribution
-- ✅ Private use
-- ⚠️ No liability
-- ⚠️ No warranty
 
 ---
 ### **Development Setup**
