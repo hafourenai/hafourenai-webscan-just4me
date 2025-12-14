@@ -3,9 +3,8 @@
 # 🔍 Honey Web Vulnerability Scanner
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
-![Accuracy](https://img.shields.io/badge/accuracy-70--75%25-yellow.svg)
+![Accuracy](https://img.shields.io/badge/accuracy-65--70%25-yellow.svg)
 
 Professional-grade web vulnerability scanner dengan **ML-style behavioral analysis**, **context-aware detection**, dan **advanced anti-ban protection**.
 
