@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="t" src="https://github.com/user-attachments/assets/4128ffd7-8179-4d19-bf54-255494ba075e" />
+
 
 # Honey Web Vulnerability Scanner
 
@@ -15,8 +15,7 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 ```
-
-
+[Docs](https://www.canva.com/design/DAHBoV_eIbg/OHfb5RNAsXQEfiAT9jphWQ/edit?utm_content=DAHBoV_eIbg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
 
 ### **Command Line Options**
